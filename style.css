@@ -1,6 +1,7 @@
 body{
     margin: 0px;
     padding-top:800px;
+    text-align: center;
 }
 .profile{
     width: 175px;
@@ -86,5 +87,5 @@ p{
     background-color: dodgerblue;
 }
 img{
-    width: 150px;
+    width: 260px;
 }
